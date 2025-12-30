@@ -7,13 +7,13 @@ public class exer09 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite um numero ");
-        int nu1 = sc.nextByte();
+        int nu1 = sc.nextInt();
 
         System.out.println("Digite um numero ");
-        int nu2 = sc.nextByte();
+        int nu2 = sc.nextInt();
 
         System.out.println("Digite um numero ");
-        int nu3 = sc.nextByte();
+        int nu3 = sc.nextInt();
 
         int temp = 0;
 
